@@ -38,7 +38,7 @@ redirect_from:
   * [Electricity Generation Company of Bangladesh](http://www.egcb.gov.bd/)
 
 ### Graduate Courses
-* Machine Learning/Optimization: Statistical Machine Learning, Reinforcement Learning, Advanced Nonlinear Optimization, Probability and random variables
-* Control/Dynamical system: Linear System Theory, Optimal Control theory, Robust Control, Random Dynamical System, Design and Control of Mechatronics system, Digital Signal Processing
+* **Machine Learning/Optimization**: Statistical Machine Learning, Reinforcement Learning, Advanced Nonlinear Optimization, Probability and random variables
+* **Control/Dynamical system**: Linear System Theory, Optimal Control theory, Robust Control, Random Dynamical System, Design and Control of Mechatronics system, Digital Signal Processing
 
   
