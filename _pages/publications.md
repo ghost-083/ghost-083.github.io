@@ -11,5 +11,5 @@ author_profile: true
 
 {% include base_path %}
 
-Md Ferdous Alam, Max Shtein, Kira Barton & David J. Hoelzle, “[Autonomous Manufacturing Using Machine Learning: A Computational Case Study With a Limited Manufacturing Budget](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T07A009/1095697),” **(MSEC 2020)**. **Best paper award**
+Md Ferdous Alam, Max Shtein, Kira Barton & David J. Hoelzle, “[Autonomous Manufacturing Using Machine Learning: A Computational Case Study With a Limited Manufacturing Budget](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T07A009/1095697),” **([MSEC 2020](https://event.asme.org/MSEC-2020))**. **Best paper award**
 
