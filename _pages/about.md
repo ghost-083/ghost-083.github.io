@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ferdous"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Research interest: Machine learning, optimization and control 
-======
+
