@@ -325,3 +325,8 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.text_cell_render p {
+  text-align: justify;
+  text-justify: inter-word;
+}
