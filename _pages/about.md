@@ -12,7 +12,7 @@ I am Ferdous, a PhD student in the Mechanical and Aerospace Engineering Departme
 </p> 
 
 Here are couple of facts about me, 
-* I wish that someday I will work on developing hierarchical reinforcement learning and control algorithms that can help building autonomous systems capable of performing high level abstract tasks    
-* I am deeply motivated to leverage physics based knowledge in Machine Learning for robust decision making, many mature fields can benefit from using domain specific knowledge in learning algorithms
-* I plan to broaden my activity against environmental pollution in [my home country](https://www.thedailystar.net/environment/environment-pollution-in-dhaka-bangladesh-18000-died-world-bank-report-1634566){:target="_blank"} 
+* <p align="justify">I wish that someday I will work on developing hierarchical reinforcement learning and control algorithms that can help building autonomous systems capable of performing high level abstract tasks </p>    
+* <p align="justify">I am deeply motivated to leverage physics based knowledge in Machine Learning for robust decision making, many mature fields can benefit from using domain specific knowledge in learning algorithms </p>   
+* <p align="justify"> I plan to broaden my activity against environmental pollution in [my home country](https://www.thedailystar.net/environment/environment-pollution-in-dhaka-bangladesh-18000-died-world-bank-report-1634566){:target="_blank"} </p> 
 
