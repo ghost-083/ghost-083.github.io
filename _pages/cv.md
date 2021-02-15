@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-  
-### Research interests
+## Downoad my full [CV](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_CV_full.pdf)
+
+
+## Research interests
 
 * Machine learning 
 * Optimization
@@ -19,19 +21,7 @@ redirect_from:
 ----------------------------
 
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Download my resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_CV.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
-
-### Education
+## Education
 
 * PhD, 2018- 
   * Advisor: [David Hoelzle](https://hrl.engineering.osu.edu/people/hoelzle.1){:target="_blank"}
@@ -43,14 +33,14 @@ redirect_from:
 
 --------------------------------
 
-### Work experience
+## Work experience
 
 * Lecturer, 2016-2018
   * Shahjalal University of Science and Technology, Sylhet, Bangladesh
 * Undergraduate Internship, 2015
   * [Electricity Generation Company of Bangladesh](http://www.egcb.gov.bd/){:target="_blank"}
 
-### Graduate Courses
+## Relevant Courses
 * **Machine Learning/Optimization**: Statistical Machine Learning, Reinforcement Learning, Advanced Nonlinear Optimization, Probability and random variables
 * **Control/Dynamical system**: Linear System Theory, Optimal Control theory, Robust Control, Random Dynamical System, Design and Control of Mechatronics system, Digital Signal Processing
 * **Certification**: [Deep Learning Specialization (Coursera)](https://www.coursera.org/account/accomplishments/specialization/3YZLSAFPSVB8){:target="_blank"}
