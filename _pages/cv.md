@@ -18,6 +18,8 @@ redirect_from:
 
 ----------------------------
 
+### Download my [cv](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_CV.pdf)
+
 ### Education
 
 * PhD, 2018- 
