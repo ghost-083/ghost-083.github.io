@@ -16,7 +16,8 @@ redirect_from:
   * _Machine learning_
   * _Control_
   * _Optimization_
----------
+
+---------------------------------------------
 
 ## Education
 * PhD, 2018- 
