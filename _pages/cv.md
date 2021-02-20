@@ -8,15 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
---
+
 * [resume](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_resume.pdf) 
 * [CV](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_CV.pdf)
---
 
 ## Research interests
-  _Machine learning_
-  _Control_
-  _Optimization_
+  * _Machine learning_
+  * _Control_
+  * _Optimization_
 ---------
 
 ## Education
