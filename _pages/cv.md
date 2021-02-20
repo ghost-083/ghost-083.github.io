@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## Downoad my full [CV](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_CV_full.pdf)
+## Resume
+Download resume [resume](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_resume.pdf)
+
+## CV
+Download my full [CV](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_CV.pdf)
+
 
 
 ## Research interests
 
-* Machine learning 
-* Optimization
-* Control
-
+*Machine learning*              *Control*             *Optimization*              
 ----------------------------
 
 
