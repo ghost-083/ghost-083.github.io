@@ -11,6 +11,9 @@ redirect_from:
 I am Ferdous, a PhD student in the Mechanical and Aerospace Engineering Department at The Ohio State University and advised by <a href="https://mae.osu.edu/people/hoelzle.1">Professor David Hoelzle</a>. My research is at the intersection of machine learning/reinforcement learning, control and optimization. I am developing algorithms that can work on environments with extremely expensive data (i.e. autonomous manufacturing where samples are expensive due to monetary and time cost). Previously we have shown that <a href="https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T07A009/1095697">reinforcement learning can be a good candidate to tackle learning in such systems</a>. Later we developed <a href=" ">PRLAM framework that can effectively learn to manufacture desired acoustic metamaterial using only 50 samples</a>. Currently we are working on the improvement and generalization of this algorithm. We also won the best paper award at <a href="https://event.asme.org/MSEC-2020"> MSEC 2020 </a>.        
 </p> 
 
+
+![autonomous manufacturing](autonomous_mfg.gif)
+
 Download my [resume](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_resume.pdf).
 
 ## Research interest 
