@@ -12,7 +12,7 @@ I am Ferdous, a PhD student in the Mechanical and Aerospace Engineering Departme
 </p> 
 
 
-![autonomous manufacturing](autonomous_mfg.gif)
+![autonomous manufacturing](autonomous_mfg.gif) *Autonomous manufacturing*
 
 Download my [resume](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_resume.pdf).
 
