@@ -12,8 +12,10 @@ I am Ferdous, a PhD student in the Mechanical and Aerospace Engineering Departme
 </p> 
 
 
-![autonomous manufacturing](autonomous_mfg.gif) 
-*Autonomous manufacturing*
+<p align="center">
+  ![autonomous manufacturing](autonomous_mfg.gif) 
+  *Autonomous manufacturing*
+</p>
 
 ## Research interest 
 * <p align="justify"> (Hierarchical) reinforcement learning and control algorithms that can help building autonomous systems capable of performing high level abstract tasks </p>    
