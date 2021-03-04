@@ -13,7 +13,7 @@ I am Ferdous, a PhD student in the Mechanical and Aerospace Engineering Departme
 
 <p align="center">
   <img src="autonomous_mfg.gif" />
-  Autonomous manufacturing
+  <center>  Autonomous manufacturing </center>
 </p>
 
 ## Research interest 
