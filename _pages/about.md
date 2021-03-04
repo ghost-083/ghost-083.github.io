@@ -16,9 +16,9 @@ I am Ferdous, a PhD student in the Mechanical and Aerospace Engineering Departme
   <center>  Autonomous manufacturing </center>
 </p>
 
-## Research interest 
+## Research interests 
 * <p align="justify"> (Hierarchical) reinforcement learning and control algorithms that can help building autonomous systems capable of performing high level abstract tasks </p>    
 * <p align="justify"> Leveraging physics based knowledge in Machine Learning for robust decision making</p>   
-* <p align="justify"> Optimization </p>   
+* <p align="justify"> Optimization and optimal control </p>   
 
 Download my [resume](https://github.com/ferdous-alam/ferdous-alam.github.io/blob/master/Ferdous_resume.pdf).
