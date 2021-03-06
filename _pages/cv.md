@@ -29,6 +29,7 @@ redirect_from:
 * BS in Mechanical Engineering, 2015 
   * Advisor: [Md Ashiqur Rahman](https://ashiqurrahman.buet.ac.bd/){:target="_blank"}
   * Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+  
 --------------------------------
 
 ## Work experience
