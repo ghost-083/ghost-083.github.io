@@ -1,3 +1,14 @@
+---
+layout: archive
+title: " "
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 <!doctype html>
 <meta charset="utf-8">
 <script src="https://distill.pub/template.v1.js"></script>
@@ -33,3 +44,5 @@
     url={https://arxiv.org/pdf/1502.04623.pdf}
   }
 </script>
+
+---------------------------------------------
