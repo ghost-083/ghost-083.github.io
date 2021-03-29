@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-28T23:58:54-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "The Graduate Student Perspective",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-28T23:58:55-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
